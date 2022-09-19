@@ -4,6 +4,8 @@ ACE (niAei spaCe gamE) is a 2D space shooter game written on Python.
 This game has no purpose other than showing coding is fun. With good coding experience, one can create a game with a 
 little effort.
 
+![Space](space.gif)
+
 ## Requirements
 
 - `pygame==2.1.2`
